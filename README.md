@@ -7,7 +7,7 @@
   <h1 align="center">Hydra Launcher</h1>
 
   <p align="center">
-    <strong>Hydra is a game launcher with its own embedded bittorrent client.</strong>
+    <strong>Hydra - это игровой лаунчер с собственным встроенным bittorrent-клиентом.</strong>
   </p>
 
 [![build](https://img.shields.io/github/actions/workflow/status/hydralauncher/hydra/build.yml)](https://github.com/hydralauncher/hydra/actions)
@@ -31,12 +31,12 @@
 
 </div>
 
-## Table of Contents
+## Таблица с содержанием
 
-- [Table of Contents](#table-of-contents)
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
+- [Таблица с содержанием](#table-of-contents)
+- [О Hydra](#about)
+- [Функции](#features)
+- [Установка](#installation)
 - [Contributing](#-contributing)
   - [Join our Telegram](#-join-our-telegram)
   - [Fork and clone your repository](#fork-and-clone-your-repository)
