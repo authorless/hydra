@@ -33,10 +33,10 @@
 
 ## Таблица с содержанием
 
-- [Таблица с содержанием](#table-of-contents)
-- [О Hydra](#about)
-- [Функции](#features)
-- [Установка](#installation)
+- [Таблица с содержанием](#Таблица с содержанием)
+- [О Hydra](#О Hydra)
+- [Функции](#Функции)
+- [Установка](#Установка)
 - [Contributing](#-contributing)
   - [Join our Telegram](#-join-our-telegram)
   - [Fork and clone your repository](#fork-and-clone-your-repository)
