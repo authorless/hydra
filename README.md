@@ -58,18 +58,18 @@
 
 ## About
 
-**Hydra** is a **Game Launcher** with its own embedded **BitTorrent Client**.
+**Hydra** — это **программа запуска игр** со встроенным **BitTorrent-клиентом**.
 <br>
-The launcher is written in TypeScript (Electron) and Python, which handles the torrenting system by using libtorrent.
+Программа запуска написана на TypeScript (Electron) и Python, который управляет торрент-системой с помощью libtorrent.
 
-## Features
+## Функции
 
-- Own embedded bittorrent client
-- How Long To Beat (HLTB) integration on game page
-- Downloads path customization
-- Windows and Linux support
-- Constantly updated
-- And more ...
+- Собственный встроенный BitTorrent-клиент.
+- Интеграция How Long To Beat (HLTB) на странице игры.
+- Настройка пути загрузки.
+- Поддержка Windows и Linux
+- Постоянно обновляется
+- И еще...
 
 ## Installation
 
@@ -95,16 +95,16 @@ We concentrate our discussions on our [Telegram](https://t.me/hydralauncher) cha
 4. Push your commits
 5. Submit a new Pull Request
 
-### Ways you can contribute
+### Как вы можете внести свой вклад
 
-- Translation: We want Hydra to be available to as many people as possible. Feel free to help translate to new languages or update and improve the ones that are already available on Hydra.
-- Code: Hydra is built with Typescript, Electron and a little bit of Python. If you want to contribute, join our [Telegram](https://t.me/hydralauncher)!
+Перевод: Мы хотим, чтобы Hydra была доступна как можно большему количеству людей. Не стесняйтесь помогать переводить на новые языки или обновлять и улучшать те, которые уже доступны на Hydra.
+- Код: Hydra создана с использованием Typescript, Electron и небольшого количества Python. Если вы хотите внести свой вклад, присоединяйтесь к нам [Telegram](https://t.me/hydralauncher)!
 
-### Project Structure
+### Структура проекта
 
-- torrent-client: We use libtorrent, a Python library, to manage torrent downloads
-- src/renderer: the UI of the application
-- src/main: all the logic rests here.
+- torrent-client: мы используем libtorrent, библиотеку Python, для управления торрент-загрузками.
+- src/renderer: пользовательский интерфейс приложения.
+- src/main: вся логика находится здесь.
 
 ## Build from source
 
